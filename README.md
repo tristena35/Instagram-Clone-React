@@ -6,4 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is my first attempt at using React JS with an external database, in this case Firebase, to create an Instagram clone app. This is also only the first version of it, work is still needed on the app.
 
-### Images of the App in use:
+### `Images of the App in use`
+
+<img src = "Instagram-Clone-React%20screenshots/1.png" width="200" height="400">
