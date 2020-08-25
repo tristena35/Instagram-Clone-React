@@ -8,4 +8,4 @@ This is my first attempt at using React JS with an external database, in this ca
 
 ### `Images of the App in use`
 
-<img src = "Instagram-Clone-React%20screenshots/1.png" width="200" height="400">
+<img src = "https://github.com/tristena35/Instagram-Clone-React/blob/master/screenshots/1.png?raw=true" width="200" height="400">
