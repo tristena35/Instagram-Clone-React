@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa;
+}
+
+.app_header {
+  /* Makes header stay on top */
+  position: sticky;
+  top: 0;
+  /* z-index will make sure it overlaps anything under it */
+  z-index: 1;
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+  /* 'object-fit' property is used to specify how an <img> or <video> should be resized to fit its container */
+  object-fit: contain;
+  display: flex;
+  justify-content: space-between;
+}
+
+.app_posts {
+  padding: 20px;
+  /* display flex will put divs in a row */
+  display: flex;
+  justify-content: center;
+}
+
+/*
+
+.app_postsLeft {
+  margin-right: 10px; 
+}
+
+.app_postsRight {
+  margin-left: 10px;
+} 
+
+*/
+
+.app_headerImage {
+  /* Will make image not stretch */
+  object-fit: contain;
+}
+
+.app_signup {
+  display: flex;
+  flex-direction: column;
+}
+
+.app_imageUploader {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10%;
+}
